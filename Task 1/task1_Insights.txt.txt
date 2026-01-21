@@ -1,0 +1,26 @@
+Task 1: Superstore Sales Performance Analysis
+
+Objective:
+The objective of this task is to analyze the sales performance of a Superstore using Power BI and identify key business insights related to revenue, profit, regions, categories, and monthly trends.
+
+Dataset Used:
+Superstore Sales Dataset
+
+Tools Used:
+• Microsoft Power BI
+• Microsoft Excel
+
+Key KPIs:
+• Total Revenue: 1.57M
+• Total Profit: 175.26K
+• Average Order Value (AOV): 521.41
+
+Key Insights:
+1. The West region generated the highest revenue (~0.52M), followed by the East region (~0.45M), indicating strong market performance in these areas.
+2. Technology category contributes the highest share of revenue (~470.59K), making it the top-performing category.
+3. Revenue shows an increasing trend towards the end of the year, with December recording the highest monthly sales (~245K).
+4. Products like Canon ImageCLASS and 3D Systems Cube Printer are among the top revenue-generating products.
+5. The South region has the lowest revenue contribution, highlighting an opportunity for targeted marketing and sales strategies.
+
+Conclusion:
+This dashboard provides a clear overview of sales performance across regions, categories, and time, helping stakeholders make data-driven business decisions.
