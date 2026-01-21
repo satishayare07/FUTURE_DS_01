@@ -1,0 +1,28 @@
+Task 2: Customer Retention & Churn Analysis
+
+Objective:
+The objective of this task is to analyze customer churn and retention patterns based on demographics, tenure, activity status, and product usage.
+
+Dataset Used:
+Customer Churn Dataset
+
+Tools Used:
+• Microsoft Power BI
+• Microsoft Excel
+
+Key KPIs:
+• Total Customers: 10K
+• Total Exited Customers: 2037
+• Churn Rate: 20.4%
+• Retention Rate: 79.6%
+• Average Tenure: 5.0 years
+
+Key Insights:
+1. Overall churn rate is 20.4%, meaning nearly one-fifth of customers have exited.
+2. Customers with lower tenure show higher churn rates, indicating early-stage dissatisfaction.
+3. Inactive customers have significantly higher churn compared to active customers.
+4. Male customers show slightly higher churn compared to female customers.
+5. Customers using fewer products are more likely to churn than those using multiple products.
+
+Conclusion:
+Improving customer engagement, increasing product adoption, and focusing on early tenure customers can help reduce churn and improve retention.
