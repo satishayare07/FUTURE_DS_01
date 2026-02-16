@@ -9,7 +9,7 @@
 ---
 
 ## Project Overview
-This repository contains all three dashboards completed as part of the Data Science & Analytics Internship with Future Interns. The projects focus on **sales performance**, **customer retention**, and **marketing funnel analysis** using Power BI.
+This repository contains all three dashboards completed as part of the Data Science & Analytics Internship with Future Interns. The projects focus on **sales performance**  using Power BI.
 
 ---
 
@@ -42,59 +42,4 @@ This repository contains all three dashboards completed as part of the Data Scie
 
 ---
 
-## Task 2: Customer Retention & Churn Analysis
-**Objective:** Analyze churn patterns based on tenure, activity, and product usage.
 
-**Key Metrics:**  
-- Total Customers: 10K  
-- Churn Rate: 20.4%  
-- Retention Rate: 79.6%  
-- Average Tenure: 5 years  
-
-**Insights:**  
-- Higher churn among inactive customers  
-- Early-tenure customers churn more  
-- Customers using fewer products have higher churn  
-
-**Files / Folders:**  
-- `data/` → `student_feedback.csv`  
-- `notebook/` → `feedback_analysis.ipynb`  
-- `visuals/` → `rating_distribution.png`, `sentiment_analysis.png`  
-- `report/` → `final_report.pdf`
-
----
-
-## Task 3: Marketing Funnel & Conversion Performance
-**Objective:** Analyze marketing funnel and conversion rates across channels and devices.
-
-**Key Metrics:**  
-- Total Users: 10K  
-- Total Purchases: 1004  
-- Conversion Rate: 10%  
-- Total Revenue: 277.32K  
-
-**Insights:**  
-- Major drop-off occurs at checkout stage  
-- Desktop users generate the highest sessions  
-- Google Ads and Social Media perform best  
-
-**Files:**  
-- `Marketing_Funnel_Dashboard.pbix`  
-- `Marketing_Data.xlsx`  
-- `Marketing_Dashboard_Screenshot.png`  
-- `Task3_Insights.txt`
-
----
-
-## Repository Structure
-```plaintext
-FUTURE_DS_01/
-├── Task-1-Sales-Performance/
-├── Task-2-Customer-Retention/
-├── Task-3-Marketing-Funnel/
-└── README.md
-
-```
-
-## Conclusion
-These three dashboards provide actionable insights for improving **business performance**, **customer retention**, and **marketing effectiveness** using data-driven decision-making.
